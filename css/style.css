@@ -1,7 +1,7 @@
 @font-face { 
   font-family: News Cycle; 
-    src: url('../fonts/NewsCycle-Regular.eot'); 
-    src: local("News Cycle"), url('../fonts/NewsCycle-Regular.ttf'); 
+    src: url('../fonts/newscycle-regular.eot'); 
+    src: local("News Cycle"), url('../fonts/newscycle-regular.ttf'); 
 } 
 
 html { 
