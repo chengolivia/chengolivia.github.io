@@ -34,7 +34,7 @@ img {
   border: 0;
 }
 
-h1, h2, h3, h4, h5, h6 { 
+h1, h2,  h4, h5, h6 { 
   font: normal 200% 'News Cycle', arial, sans-serif;
   color: #222;
   margin: 0 0 15px 0;
@@ -54,6 +54,7 @@ h2 {
 
 h3 { 
   font: normal 125% 'trebuchet ms', arial, sans-serif;
+  margin: 0 0 5px 0;
 }
 
 h4, h5, h6 { 
@@ -123,14 +124,14 @@ header {
   float: left;
   height: 100px;
   background: transparent;
-  padding: 0 0 10px 10px;
+  padding: 0 0 10px 0px;
 }
 
 #logo h1 { 
-  font: normal 330% 'News Cycle', arial, sans-serif;
-  padding: 37px 0 0 17px;
+  font: normal 600 360% 'News Cycle', arial, sans-serif;
+  padding: 37px 0 0 0px;
   color: #222;
-  letter-spacing: -2px;
+  letter-spacing: 1px;
 }
 
 #logo h1 a { 
@@ -145,7 +146,7 @@ header {
 
 nav { 
   height: 26px;
-  width: 720px;
+  width: 400px;
   margin: 1px auto 0 auto;
   float: right;
   padding: 35px 0 0 0;
