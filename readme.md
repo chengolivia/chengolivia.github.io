@@ -1,7 +1,10 @@
 ## Project Description
 
+[Link to page](https://chengolivia.github.io/)
+
 Personal website based on Learning Zone's template:
 
-* [live example](https://learning-zone.github.io/website-templates/my-portfolio-two/)
+* [template code](https://github.com/learning-zone/website-templates/tree/master/my-portfolio-two)
+* [template example](https://learning-zone.github.io/website-templates/my-portfolio-two/)
 
-![alt text](https://github.com/learning-zone/Website-Templates/blob/master/assets/my_portfolio_two.png "my_portfolio_two")
+
