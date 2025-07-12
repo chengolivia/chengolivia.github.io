@@ -157,7 +157,12 @@ let setDiff2htmlTheme = (theme) => {
     // Get the code block content from previous element, since it is the diff code itself as defined in Markdown, but it is hidden
     let textData = elem.previousSibling.childNodes[0].innerHTML;
     elem.innerHTML = "";
-    const configuration = { colorScheme: theme, drawFileList: true, highlight: true, matching: "lines" };
+    const configuration = {
+      colorScheme: theme,
+      drawFileList: true,
+      highlight: true,
+      matching: "lines",
+    };
     const diff2htmlUi = new Diff2HtmlUI(elem, textData, configuration);
     diff2htmlUi.draw();
   });
@@ -192,7 +197,10 @@ let setPlotlyTheme = (theme) => {
       // if jsonData.layout exists, then update the theme
       if (jsonData.layout) {
         if (jsonData.layout.template) {
-          jsonData.layout.template = { ...plotlyDarkLayout, ...jsonData.layout.template };
+          jsonData.layout.template = {
+            ...plotlyDarkLayout,
+            ...jsonData.layout.template,
+          };
         } else {
           jsonData.layout.template = plotlyDarkLayout;
         }
@@ -207,7 +215,10 @@ let setPlotlyTheme = (theme) => {
       // if jsonData.layout exists, then update the theme
       if (jsonData.layout) {
         if (jsonData.layout.template) {
-          jsonData.layout.template = { ...plotlyLightLayout, ...jsonData.layout.template };
+          jsonData.layout.template = {
+            ...plotlyLightLayout,
+            ...jsonData.layout.template,
+          };
         } else {
           jsonData.layout.template = plotlyLightLayout;
         }

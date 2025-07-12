@@ -7,7 +7,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
     // highlight-search-term
     if (CSS.highlights) {
-      const nonMatchingElements = highlightSearchTerm({ search: searchTerm, selector: ".bibliography > li" });
+      const nonMatchingElements = highlightSearchTerm({
+        search: searchTerm,
+        selector: ".bibliography > li",
+      });
       if (nonMatchingElements == null) {
         return;
       }
