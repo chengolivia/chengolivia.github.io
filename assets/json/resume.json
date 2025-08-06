@@ -1,6 +1,111 @@
 {
   "basics": {
     "name": "Olivia Cheng",
-    "label": "MSML at Carnegie Mellon University"
-  }
+    "summary": "Machine Learning Research and Engineering"
+  },
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.ml.cmu.edu/",
+      "area": "Machine Learning",
+      "studyType": "Master of Science",
+      "startDate": "2025"
+    },
+    {
+      "institution": "University of Pennsylvania",
+      "location": "Philadelphia, PA",
+      "url": "https://www.upenn.edu/",
+      "area": "Interdisciplinary Philosophy & Science; Minors in Mathematics & Computer Science",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2018",
+      "endDate": "2022"
+    }
+  ],
+  "work": [
+    {
+      "startDate": "2024",
+      "endDate": "2025",
+      "location": "Pittsburgh, PA",
+      "position": "Software Engineer",
+      "name": "Daedalus, Inc.",
+      "url": "http://daed.com/",
+      "highlights": [
+        "Pioneered novel integrated stereo depth perception & object detection algorithm by implementing and adapting academic research paper with no available source code, including custom optimizations for real-time performance on NVIDIA Jetson platform",
+        "Managed technical oversight of medical device firmware development for surgical systems, conducting code reviews and executing rigorous unit testing protocols for FDA-regulated software",
+        "Led software standup meeting and organize biweekly Learn & Share sessions for software team"
+      ]
+    },
+    {
+      "startDate": "20222",
+      "endDate": "2023",
+      "location": "New York, NY",
+      "name": "Meta Platforms, Inc.",
+      "url": "https://www.meta.com/",
+      "position": "Software Engineer",
+      "highlights": [
+        "Deployed and optimized low-latency ML models for EMG/IMU signal processing in wearable non-invasive brain-computer interfaces as part of Augmented Reality division",
+        "Architected cross-platform signal processing library for multiple MCU/DSP targets using Python & C++"
+      ]
+    },
+    {
+      "startDate": "2021",
+      "endDate": "2021",
+      "location": "Remote (Menlo Park)",
+      "name": "Facebook, Inc.",
+      "url": "https://www.meta.com",
+      "position": "Software Engineer Intern",
+      "highlights": ["Built cross-platform mobile UI components for Facebook Marketplace, designed for accessibility"]
+    },
+    {
+      "startDate": "2021",
+      "endDate": "2021",
+      "location": "Remote (Redwood City)",
+      "name": "Chan Zuckerberg Initiative",
+      "url": "https://chanzuckerberg.com/",
+      "position": "Software Engineer Intern",
+      "highlights": ["Built proof of concept for differential data privacy system in Python to protect sensitive user data"]
+    }
+  ],
+  "music": [
+    {
+      "startDate": "2023",
+      "position": "Mendelssohn Choir of Pittsburgh",
+      "url": "https://www.themendelssohn.org/",
+      "location": "Pittsburgh, PA",
+      "summary": "Alto I/Soprano II in mixed professional-volunteer symphonic choir, partner of Pittsburgh Symphony Orchestra. All performances in Heinz Hall unless otherwise noted.",
+      "highlights": [
+        "Joe Hisaishi Conducts the PSO | September 13-14, 2025 | Cond. by Joe Hisaishi | US Premiere of 'The End of the World' by Hisaishi",
+        "Highmark Holiday Pops | December 13-21, 2024",
+        "Brahms' Schicksalied and Faure's Requiem | December 6-8, 2024 | Cond. by Manfred Honeck",
+        "Beethoven's Symphony No. 9 | April 26-28, 2024 | Cond. by Manfred Honeck",
+        "Liszt's Dante Symphony | April 19-21, 2024 | Cond. by Manfred Honeck",
+        "Highmark Holiday Pops | December 15-23, 2023",
+        "Brahms’ Requiem | December 1-3 | Cond. by Manfred Honeck"
+      ]
+    },
+    {
+      "startDate": "2023",
+      "endDate": "2023",
+      "position": "Florilegium Chamber Choir",
+      "url": "https://florilegiumchamberchoir.org/",
+      "location": "New York, NY",
+      "summary": "Alto I in 25-person SATB chamber choir. All performances in Trinity Lutheran Church of Manhattan and conducted by James Knox Sutterfield.",
+      "highlights": ["Jauchzet dem Herrn | March 5, 2023", "Ye Shall Have a Song | May 21, 2023"]
+    },
+    {
+      "startDate": "2022",
+      "endDate": "2023",
+      "position": "New York Choral Society",
+      "url": "https://nychoral.org/",
+      "location": "New York, NY",
+      "summary": "Alto I in 100+ person symphonic choir. Conducted by David Hayes unless otherwise noted.",
+      "highlights": [
+        "A Knee on the Neck | June 13, 2023 | David Geffen Hall, Lincoln Center | New York Premiere",
+        "Bernstein's Chichester Psalms | May 28, 2023 | Stern Auditorium/Perelman Stage, Carnegie Hall | Cond. by Michael Repper",
+        "A Very Merry Brooklyn Holiday Concert | December 16, 2022 | St. Ann and the Holy Trinity Church, Brooklyn | Cond. by Philip Nuzzo",
+        "Duke Ellington's Sacred Concerts | November 18-19, 2022 | Tishman Auditorium, The New School"
+      ]
+    }
+  ]
 }
