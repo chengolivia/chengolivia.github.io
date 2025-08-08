@@ -99,6 +99,37 @@
       "summary": "Acknowledged for data collection and compilation for study of local TV stations and political bias in news coverage."
     }
   ],
+  "certificates": [
+    {
+      "url": "https://cas-bridge.xethub.hf.co/xet-bridge-us/67a47037749ea2c4b9fafd4b/d49601df177ddbbff923cafeda39f82c1d659cc8dae0caf813ac1003af7eb815?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cas%2F20250808%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250808T192718Z&X-Amz-Expires=3600&X-Amz-Signature=3e148124441d5e0ede8a391e30b3f5972d00bc3cbdb17bf4e234d0e28f54e8b3&X-Amz-SignedHeaders=host&X-Xet-Cas-Uid=683864445a69904abd4fe625&response-content-disposition=inline%3B+filename*%3DUTF-8%27%272025-06-30.png%3B+filename%3D%222025-06-30.png%22%3B&response-content-type=image%2Fpng&x-id=GetObject&Expires=1754684838&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NDY4NDgzOH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2FzLWJyaWRnZS54ZXRodWIuaGYuY28veGV0LWJyaWRnZS11cy82N2E0NzAzNzc0OWVhMmM0YjlmYWZkNGIvZDQ5NjAxZGYxNzdkZGJiZmY5MjNjYWZlZGEzOWY4MmMxZDY1OWNjOGRhZTBjYWY4MTNhYzEwMDNhZjdlYjgxNSoifV19&Signature=X5xNu3etVupuQR%7Ef-UjAbSh7l2reO382iXmkmSQ2sRfMdrgfZm9YCbg9T4QZunLTL80nfx-yxMo-UQ7D98YTDcQRBh77J--4E7Q9iHpIWVSUzMTVdJy3XGVzggK-0KQwgCYtKvUv0bNr5diGmfKNGCD6gukgv%7EOQb7P8UJDVkTDYELPiinLPo-lAlLOGiZ6D1fcDhiB712eOVsWMbnE7HoM5IWZJUm%7EpH4i6BcCq-%7EOHjJBsmegkg3Eqtnmkt69cH94onp1TTVhvuBRodC8vIbSO6d1t9jHPtuaQKyMGBYwmmIJO%7EHrWfIMgHjwmu8n4B%7EheiB75Yu1cAJ0s%7EvMCPg__&Key-Pair-Id=K2L8F4GPSG1IFC",
+      "name": "AI Agents Fundamentals Certificate",
+      "issuer": "Hugging Face",
+      "date": "2025-06"
+    },
+    {
+      "name": "LLM Course Unit 3: Fine-tuning Language Models Certificate",
+      "issuer": "Hugging Face",
+      "date": "2025-06"
+    },
+    {
+      "name": "LLM Course Unit 1: Fundamentals of LLMs Certificate",
+      "url": "https://huggingface.co/learn/llm-course/chapter1/11?fw=pt",
+      "issuer": "Hugging Face",
+      "date": "2025-06"
+    },
+    {
+      "url": "https://www.pdma.org/event/pgh-2024-fall-bok-training",
+      "name": "New Product Development Body of Knowledge Training Certificate",
+      "issuer": "Product Development and Management Association",
+      "date": "2024-11"
+    },
+    {
+      "url": "https://www.coursera.org/account/accomplishments/verify/KP68S522EH3G",
+      "name": "Introduction to Cloud Computing Certificate",
+      "issuer": "IBM",
+      "date": "2024-01"
+    }
+  ],
   "music": [
     {
       "startDate": "2023",
