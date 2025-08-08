@@ -60,9 +60,7 @@
       "name": "Facebook, Inc.",
       "url": "https://www.meta.com",
       "position": "Software Engineer Intern",
-      "highlights": [
-        "Built cross-platform mobile UI components for Facebook Marketplace, designed for accessibility"
-      ]
+      "highlights": ["Built cross-platform mobile UI components for Facebook Marketplace, designed for accessibility"]
     },
     {
       "startDate": "2021",
@@ -71,9 +69,7 @@
       "name": "Chan Zuckerberg Initiative",
       "url": "https://chanzuckerberg.com/",
       "position": "Software Engineer Intern",
-      "highlights": [
-        "Built proof of concept for differential data privacy system in Python to protect sensitive user data"
-      ]
+      "highlights": ["Built proof of concept for differential data privacy system in Python to protect sensitive user data"]
     }
   ],
   "publications": [
@@ -99,39 +95,22 @@
       "summary": "Acknowledged for data collection and compilation for study of local TV stations and political bias in news coverage."
     }
   ],
-  
+
   "interests": [
     {
       "name": "Technical Interests",
       "icon": "fas fa-laptop-code",
-      "keywords": [
-        "machine learning",
-        "representation learning",
-        "deep learning",
-        "computer vision",
-        "multimodal AI",
-        "operations research"
-      ]
+      "keywords": ["machine learning", "representation learning", "deep learning", "computer vision", "multimodal AI", "operations research"]
     },
     {
       "name": "Applied Domains",
       "icon": "fas fa-chart-area",
-      "keywords": [
-        "finance",
-        "science",
-        "operations",
-        "automation",
-        "robotics",
-        "autonomous vehicles"
-      ]
+      "keywords": ["finance", "science", "operations", "automation", "robotics", "autonomous vehicles"]
     },
     {
       "name": "Theory & Philosophy",
       "icon": "fas fa-book",
-      "keywords": [
-        "learning theory and epistemology",
-        "technology ethics"
-      ]
+      "keywords": ["learning theory and epistemology", "technology ethics"]
     }
   ],
 
@@ -166,7 +145,7 @@
       "date": "2024-01"
     }
   ],
-  
+
   "skills": [
     {
       "name": "Machine Learning & Computer Vision",
@@ -174,7 +153,7 @@
       "level": "",
       "keywords": [
         "PyTorch",
-        "OpenCV", 
+        "OpenCV",
         "MMDetection",
         "YOLO",
         "FiftyOne",
@@ -226,23 +205,13 @@
       "name": "Mathematical Foundations",
       "icon": "fas fa-calculator",
       "level": "",
-      "keywords": [
-        "linear algebra",
-        "probability theory",
-        "3D geometry",
-        "graph theory"
-      ]
+      "keywords": ["linear algebra", "probability theory", "3D geometry", "graph theory"]
     },
     {
       "name": "Open Source",
       "icon": "fab fa-github",
       "level": "",
-      "keywords": [
-        "PyTorch contributor",
-        "OpenCV contributor",
-        "FiftyOne contributor",
-        "Hugging Face Spaces"
-      ]
+      "keywords": ["PyTorch contributor", "OpenCV contributor", "FiftyOne contributor", "Hugging Face Spaces"]
     }
   ],
   "music": [
@@ -269,10 +238,7 @@
       "url": "https://florilegiumchamberchoir.org/",
       "location": "New York, NY",
       "summary": "Alto I in 25-person SATB chamber choir. All performances in Trinity Lutheran Church of Manhattan and conducted by James Knox Sutterfield.",
-      "highlights": [
-        "Jauchzet dem Herrn | March 5, 2023",
-        "Ye Shall Have a Song | May 21, 2023"
-      ]
+      "highlights": ["Jauchzet dem Herrn | March 5, 2023", "Ye Shall Have a Song | May 21, 2023"]
     },
     {
       "startDate": "2022",
