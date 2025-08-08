@@ -20,9 +20,11 @@
       "studyType": "Bachelor of Arts",
       "startDate": "2018",
       "endDate": "2022",
-      "courses": ["Graduated with 4.0/4 GPA, summa cum laude",
-                  "Teaching Assistant for CIS 160: Mathematical Foundations of Computer Science, 2020-2021",
-                  "Tutor for ECON 001: Microeconomics"]
+      "courses": [
+        "Graduated with 4.0/4 GPA, summa cum laude",
+        "Teaching Assistant for CIS 160: Mathematical Foundations of Computer Science, 2020-2021",
+        "Tutor for ECON 001: Microeconomics"
+      ]
     }
   ],
   "work": [
@@ -58,7 +60,9 @@
       "name": "Facebook, Inc.",
       "url": "https://www.meta.com",
       "position": "Software Engineer Intern",
-      "highlights": ["Built cross-platform mobile UI components for Facebook Marketplace, designed for accessibility"]
+      "highlights": [
+        "Built cross-platform mobile UI components for Facebook Marketplace, designed for accessibility"
+      ]
     },
     {
       "startDate": "2021",
@@ -67,7 +71,32 @@
       "name": "Chan Zuckerberg Initiative",
       "url": "https://chanzuckerberg.com/",
       "position": "Software Engineer Intern",
-      "highlights": ["Built proof of concept for differential data privacy system in Python to protect sensitive user data"]
+      "highlights": [
+        "Built proof of concept for differential data privacy system in Python to protect sensitive user data"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "releaseDate": "2020",
+      "url": "https://meetings.cshl.edu/abstracts.aspx?meet=data&year=20",
+      "name": "PhenoPLIER—Integrating transcriptome-wide association studies with gene co-expression patterns",
+      "publisher": "Poster, co-authored with Milton Pividori & Casey S. Greene, Cold Spring Harbor Laboratory Biological Data Science Conference",
+      "summary": "Co-authored poster presenting data mining techniques on large genomic datasets to detect hidden patterns for predicting rare diseases."
+    },
+    {
+      "releaseDate": "2020",
+      "url": "https://www.yalejreg.com/print/private-markets-public-options-and-the-payment-system/",
+      "name": "Private Markets, Public Options, and the Payment System",
+      "publisher": "Peter Conti-Brown & David A. Wishnick, Yale Journal of Regulation, 37:2, pp. 380-434",
+      "summary": "Acknowledged for data analysis of communities under-resourced by banks and demand for payment networks."
+    },
+    {
+      "releaseDate": "2021",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/10584609.2021.1901807",
+      "name": "How Does Local TV News Change Viewers' Attitudes? The Case of Sinclair Broadcasting",
+      "publisher": "Matthew Levendusky, Political Communication, 40:2, pp. 238-253",
+      "summary": "Acknowledged for data collection and compilation for study of local TV stations and political bias in news coverage."
     }
   ],
   "music": [
@@ -94,7 +123,10 @@
       "url": "https://florilegiumchamberchoir.org/",
       "location": "New York, NY",
       "summary": "Alto I in 25-person SATB chamber choir. All performances in Trinity Lutheran Church of Manhattan and conducted by James Knox Sutterfield.",
-      "highlights": ["Jauchzet dem Herrn | March 5, 2023", "Ye Shall Have a Song | May 21, 2023"]
+      "highlights": [
+        "Jauchzet dem Herrn | March 5, 2023",
+        "Ye Shall Have a Song | May 21, 2023"
+      ]
     },
     {
       "startDate": "2022",
