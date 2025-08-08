@@ -130,6 +130,85 @@
       "date": "2024-01"
     }
   ],
+  
+  "skills": [
+    {
+      "name": "Machine Learning & Computer Vision",
+      "icon": "fas fa-brain",
+      "level": "",
+      "keywords": [
+        "PyTorch",
+        "OpenCV", 
+        "MMDetection",
+        "YOLO",
+        "FiftyOne",
+        "stereo vision",
+        "depth estimation",
+        "object detection",
+        "real-time inference optimization",
+        "unsupervised learning",
+        "automated data curation"
+      ]
+    },
+    {
+      "name": "Programming & Software Engineering",
+      "icon": "fas fa-code",
+      "level": "",
+      "keywords": [
+        "Python",
+        "C++",
+        "C",
+        "Java",
+        "embedded systems",
+        "NVIDIA Jetson",
+        "mobile app development (React Native)",
+        "performance optimization",
+        "Git",
+        "CI/CD",
+        "unit testing",
+        "code review",
+        "Linux",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Data Science & MLOps",
+      "icon": "fas fa-chart-line",
+      "level": "",
+      "keywords": [
+        "Pandas",
+        "NumPy",
+        "scikit-learn",
+        "Jupyter",
+        "model validation pipelines",
+        "experiment tracking",
+        "ML model evaluation",
+        "Weights & Biases"
+      ]
+    },
+    {
+      "name": "Mathematical Foundations",
+      "icon": "fas fa-calculator",
+      "level": "",
+      "keywords": [
+        "linear algebra",
+        "probability theory",
+        "3D geometry",
+        "graph theory"
+      ]
+    },
+    {
+      "name": "Open Source",
+      "icon": "fab fa-github",
+      "level": "",
+      "keywords": [
+        "PyTorch contributor",
+        "OpenCV contributor",
+        "FiftyOne contributor",
+        "Hugging Face Spaces"
+      ]
+    }
+  ],
   "music": [
     {
       "startDate": "2023",
