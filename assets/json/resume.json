@@ -8,7 +8,7 @@
       "institution": "Carnegie Mellon University",
       "location": "Pittsburgh, PA",
       "url": "https://www.ml.cmu.edu/",
-      "area": "Machine Learning",
+      "area": "Machine Learning, School of Computer Science",
       "studyType": "Master of Science",
       "startDate": "2025"
     },
@@ -19,7 +19,10 @@
       "area": "Interdisciplinary Philosophy & Science; Minors in Mathematics & Computer Science",
       "studyType": "Bachelor of Arts",
       "startDate": "2018",
-      "endDate": "2022"
+      "endDate": "2022",
+      "courses": ["Graduated with 4.0/4 GPA, summa cum laude",
+                  "Teaching Assistant for CIS 160: Mathematical Foundations of Computer Science, 2020-2021",
+                  "Tutor for ECON 001: Microeconomics"]
     }
   ],
   "work": [
