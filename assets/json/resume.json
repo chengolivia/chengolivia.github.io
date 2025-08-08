@@ -1,6 +1,281 @@
 {
   "basics": {
     "name": "Olivia Cheng",
-    "label": "MSML at Carnegie Mellon University"
-  }
+    "summary": "Machine Learning Research and Engineering"
+  },
+  "education": [
+    {
+      "institution": "Carnegie Mellon University",
+      "location": "Pittsburgh, PA",
+      "url": "https://www.ml.cmu.edu/",
+      "area": "Machine Learning, School of Computer Science",
+      "studyType": "Master of Science",
+      "startDate": "2025"
+    },
+    {
+      "institution": "University of Pennsylvania",
+      "location": "Philadelphia, PA",
+      "url": "https://www.upenn.edu/",
+      "area": "Interdisciplinary Philosophy & Science; Minors in Mathematics & Computer Science",
+      "studyType": "Bachelor of Arts",
+      "startDate": "2018",
+      "endDate": "2022",
+      "courses": [
+        "Graduated with 4.0/4 GPA, summa cum laude",
+        "Teaching Assistant for CIS 160: Mathematical Foundations of Computer Science, 2020-2021",
+        "Tutor for ECON 001: Microeconomics"
+      ]
+    }
+  ],
+  "work": [
+    {
+      "startDate": "2024",
+      "endDate": "2025",
+      "location": "Pittsburgh, PA",
+      "position": "Software Engineer",
+      "name": "Daedalus, Inc.",
+      "url": "http://daed.com/",
+      "highlights": [
+        "Pioneered novel integrated stereo depth perception & object detection algorithm by implementing and adapting academic research paper with no available source code, including custom optimizations for real-time performance on NVIDIA Jetson platform",
+        "Managed technical oversight of medical device firmware development for surgical systems, conducting code reviews and executing rigorous unit testing protocols for FDA-regulated software",
+        "Led software standup meeting and organize biweekly Learn & Share sessions for software team"
+      ]
+    },
+    {
+      "startDate": "2022",
+      "endDate": "2023",
+      "location": "New York, NY",
+      "name": "Meta Platforms, Inc.",
+      "url": "https://www.meta.com/",
+      "position": "Software Engineer",
+      "highlights": [
+        "Deployed and optimized low-latency ML models for EMG/IMU signal processing in wearable non-invasive brain-computer interfaces as part of Augmented Reality division",
+        "Architected cross-platform signal processing library for multiple MCU/DSP targets using Python & C++"
+      ]
+    },
+    {
+      "startDate": "2021",
+      "endDate": "2021",
+      "location": "Remote (Menlo Park)",
+      "name": "Facebook, Inc.",
+      "url": "https://www.meta.com",
+      "position": "Software Engineer Intern",
+      "highlights": ["Built cross-platform mobile UI components for Facebook Marketplace, designed for accessibility"]
+    },
+    {
+      "startDate": "2021",
+      "endDate": "2021",
+      "location": "Remote (Redwood City)",
+      "name": "Chan Zuckerberg Initiative",
+      "url": "https://chanzuckerberg.com/",
+      "position": "Software Engineer Intern",
+      "highlights": ["Built proof of concept for differential data privacy system in Python to protect sensitive user data"]
+    }
+  ],
+  "publications": [
+    {
+      "releaseDate": "2020",
+      "url": "https://meetings.cshl.edu/abstracts.aspx?meet=data&year=20",
+      "name": "PhenoPLIER—Integrating transcriptome-wide association studies with gene co-expression patterns",
+      "publisher": "Poster, co-authored with Milton Pividori & Casey S. Greene, Cold Spring Harbor Laboratory Biological Data Science Conference",
+      "summary": "Co-authored poster presenting data mining techniques on large genomic datasets to detect hidden patterns for predicting rare diseases."
+    },
+    {
+      "releaseDate": "2020",
+      "url": "https://www.yalejreg.com/print/private-markets-public-options-and-the-payment-system/",
+      "name": "Private Markets, Public Options, and the Payment System",
+      "publisher": "Peter Conti-Brown & David A. Wishnick, Yale Journal of Regulation, 37:2, pp. 380-434",
+      "summary": "Acknowledged for data analysis of communities under-resourced by banks and demand for payment networks."
+    },
+    {
+      "releaseDate": "2021",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/10584609.2021.1901807",
+      "name": "How Does Local TV News Change Viewers' Attitudes? The Case of Sinclair Broadcasting",
+      "publisher": "Matthew Levendusky, Political Communication, 40:2, pp. 238-253",
+      "summary": "Acknowledged for data collection and compilation for study of local TV stations and political bias in news coverage."
+    }
+  ],
+
+  "interests": [
+    {
+      "name": "Technical Interests",
+      "icon": "fas fa-laptop-code",
+      "keywords": ["machine learning", "representation learning", "deep learning", "computer vision", "multimodal AI", "operations research"]
+    },
+    {
+      "name": "Applied Domains",
+      "icon": "fas fa-chart-area",
+      "keywords": ["finance", "science", "operations", "automation", "robotics", "autonomous vehicles"]
+    },
+    {
+      "name": "Theory & Philosophy",
+      "icon": "fas fa-book",
+      "keywords": ["learning theory and epistemology", "technology ethics"]
+    }
+  ],
+
+  "certificates": [
+    {
+      "url": "https://cas-bridge.xethub.hf.co/xet-bridge-us/67a47037749ea2c4b9fafd4b/d49601df177ddbbff923cafeda39f82c1d659cc8dae0caf813ac1003af7eb815?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cas%2F20250808%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250808T192718Z&X-Amz-Expires=3600&X-Amz-Signature=3e148124441d5e0ede8a391e30b3f5972d00bc3cbdb17bf4e234d0e28f54e8b3&X-Amz-SignedHeaders=host&X-Xet-Cas-Uid=683864445a69904abd4fe625&response-content-disposition=inline%3B+filename*%3DUTF-8%27%272025-06-30.png%3B+filename%3D%222025-06-30.png%22%3B&response-content-type=image%2Fpng&x-id=GetObject&Expires=1754684838&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NDY4NDgzOH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2FzLWJyaWRnZS54ZXRodWIuaGYuY28veGV0LWJyaWRnZS11cy82N2E0NzAzNzc0OWVhMmM0YjlmYWZkNGIvZDQ5NjAxZGYxNzdkZGJiZmY5MjNjYWZlZGEzOWY4MmMxZDY1OWNjOGRhZTBjYWY4MTNhYzEwMDNhZjdlYjgxNSoifV19&Signature=X5xNu3etVupuQR%7Ef-UjAbSh7l2reO382iXmkmSQ2sRfMdrgfZm9YCbg9T4QZunLTL80nfx-yxMo-UQ7D98YTDcQRBh77J--4E7Q9iHpIWVSUzMTVdJy3XGVzggK-0KQwgCYtKvUv0bNr5diGmfKNGCD6gukgv%7EOQb7P8UJDVkTDYELPiinLPo-lAlLOGiZ6D1fcDhiB712eOVsWMbnE7HoM5IWZJUm%7EpH4i6BcCq-%7EOHjJBsmegkg3Eqtnmkt69cH94onp1TTVhvuBRodC8vIbSO6d1t9jHPtuaQKyMGBYwmmIJO%7EHrWfIMgHjwmu8n4B%7EheiB75Yu1cAJ0s%7EvMCPg__&Key-Pair-Id=K2L8F4GPSG1IFC",
+      "name": "AI Agents Fundamentals Certificate",
+      "issuer": "Hugging Face",
+      "date": "2025-06"
+    },
+    {
+      "name": "LLM Course Unit 3: Fine-tuning Language Models Certificate",
+      "issuer": "Hugging Face",
+      "date": "2025-06"
+    },
+    {
+      "name": "LLM Course Unit 1: Fundamentals of LLMs Certificate",
+      "url": "https://huggingface.co/learn/llm-course/chapter1/11?fw=pt",
+      "issuer": "Hugging Face",
+      "date": "2025-06"
+    },
+    {
+      "url": "https://www.pdma.org/event/pgh-2024-fall-bok-training",
+      "name": "New Product Development Body of Knowledge Training Certificate",
+      "issuer": "Product Development and Management Association",
+      "date": "2024-11"
+    },
+    {
+      "url": "https://www.coursera.org/account/accomplishments/verify/KP68S522EH3G",
+      "name": "Introduction to Cloud Computing Certificate",
+      "issuer": "IBM",
+      "date": "2024-01"
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Machine Learning & Computer Vision",
+      "icon": "fas fa-brain",
+      "level": "",
+      "keywords": [
+        "PyTorch",
+        "OpenCV",
+        "MMDetection",
+        "YOLO",
+        "FiftyOne",
+        "stereo vision",
+        "depth estimation",
+        "object detection",
+        "real-time inference optimization",
+        "unsupervised learning",
+        "automated data curation"
+      ]
+    },
+    {
+      "name": "Programming & Software Engineering",
+      "icon": "fas fa-code",
+      "level": "",
+      "keywords": [
+        "Python",
+        "C++",
+        "C",
+        "Java",
+        "embedded systems",
+        "NVIDIA Jetson",
+        "mobile app development (React Native)",
+        "performance optimization",
+        "Git",
+        "CI/CD",
+        "unit testing",
+        "code review",
+        "Linux",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Data Science & MLOps",
+      "icon": "fas fa-chart-line",
+      "level": "",
+      "keywords": [
+        "Pandas",
+        "NumPy",
+        "scikit-learn",
+        "Jupyter",
+        "model validation pipelines",
+        "experiment tracking",
+        "ML model evaluation",
+        "Weights & Biases"
+      ]
+    },
+    {
+      "name": "Mathematical Foundations",
+      "icon": "fas fa-calculator",
+      "level": "",
+      "keywords": ["linear algebra", "probability theory", "3D geometry", "graph theory"]
+    },
+    {
+      "name": "Open Source",
+      "icon": "fab fa-github",
+      "level": "",
+      "keywords": ["PyTorch contributor", "OpenCV contributor", "FiftyOne contributor", "Hugging Face Spaces"]
+    }
+  ],
+  "volunteer": [
+    {
+      "position": "OpenCV - Open Source Contributor",
+      "url": "https://github.com/opencv/opencv",
+      "startDate": "2025",
+      "summary": "Contributing to the world's biggest computer vision library",
+      "highlights": ["opencv/opencv#27305 - Math optimization improvements", "Addressed performance issues in core mathematical operations"]
+    },
+    {
+      "position": "FiftyOne - Open Source Contributor",
+      "url": "https://github.com/voxel51/fiftyone",
+      "startDate": "2025",
+      "summary": "Contributing to visual AI data management and model evaluation platform",
+      "highlights": ["voxel51/fiftyone#5910 - Enhanced dataset management capabilities"]
+    },
+    {
+      "position": "PyTorch Vision - Open Source Contributor",
+      "url": "https://github.com/pytorch/vision",
+      "startDate": "2025",
+      "summary": "Contributing to computer vision transformations and model architectures",
+      "highlights": ["pytorch/vision#9114 - Improved image transformation utilities"]
+    }
+  ],
+  "music": [
+    {
+      "startDate": "2023-08",
+      "position": "Mendelssohn Choir of Pittsburgh",
+      "url": "https://www.themendelssohn.org/",
+      "location": "Pittsburgh, PA",
+      "summary": "Alto I/Soprano II in mixed professional-volunteer symphonic choir, partner of Pittsburgh Symphony Orchestra. All performances in Heinz Hall unless otherwise noted.",
+      "highlights": [
+        "Joe Hisaishi Conducts the PSO | September 13-14, 2025 | Cond. by Joe Hisaishi | US Premiere of 'The End of the World' by Hisaishi",
+        "Highmark Holiday Pops | December 13-21, 2024",
+        "Brahms' Schicksalied and Faure's Requiem | December 6-8, 2024 | Cond. by Manfred Honeck",
+        "Beethoven's Symphony No. 9 | April 26-28, 2024 | Cond. by Manfred Honeck",
+        "Liszt's Dante Symphony | April 19-21, 2024 | Cond. by Manfred Honeck",
+        "Highmark Holiday Pops | December 15-23, 2023",
+        "Brahms’ Requiem | December 1-3, 2023 | Cond. by Manfred Honeck"
+      ]
+    },
+    {
+      "startDate": "2023",
+      "endDate": "2023-06",
+      "position": "Florilegium Chamber Choir",
+      "url": "https://florilegiumchamberchoir.org/",
+      "location": "New York, NY",
+      "summary": "Alto I in 25-person SATB chamber choir. All performances in Trinity Lutheran Church of Manhattan and conducted by James Knox Sutterfield.",
+      "highlights": ["Jauchzet dem Herrn | March 5, 2023", "Ye Shall Have a Song | May 21, 2023"]
+    },
+    {
+      "startDate": "2022",
+      "endDate": "2023-06",
+      "position": "New York Choral Society",
+      "url": "https://nychoral.org/",
+      "location": "New York, NY",
+      "summary": "Alto I in 100+ person symphonic choir. Conducted by David Hayes unless otherwise noted.",
+      "highlights": [
+        "A Knee on the Neck | June 13, 2023 | David Geffen Hall, Lincoln Center | New York Premiere",
+        "Bernstein's Chichester Psalms | May 28, 2023 | Stern Auditorium/Perelman Stage, Carnegie Hall | Cond. by Michael Repper",
+        "A Very Merry Brooklyn Holiday Concert | December 16, 2022 | St. Ann and the Holy Trinity Church, Brooklyn | Cond. by Philip Nuzzo",
+        "Duke Ellington's Sacred Concerts | November 18-19, 2022 | Tishman Auditorium, The New School"
+      ]
+    }
+  ]
 }
