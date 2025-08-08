@@ -214,6 +214,29 @@
       "keywords": ["PyTorch contributor", "OpenCV contributor", "FiftyOne contributor", "Hugging Face Spaces"]
     }
   ],
+  "volunteer": [
+    {
+      "position": "OpenCV - Open Source Contributor",
+      "url": "https://github.com/opencv/opencv",
+      "startDate": "2025",
+      "summary": "Contributing to the world's biggest computer vision library",
+      "highlights": ["opencv/opencv#27305 - Math optimization improvements", "Addressed performance issues in core mathematical operations"]
+    },
+    {
+      "position": "FiftyOne - Open Source Contributor",
+      "url": "https://github.com/voxel51/fiftyone",
+      "startDate": "2025",
+      "summary": "Contributing to visual AI data management and model evaluation platform",
+      "highlights": ["voxel51/fiftyone#5910 - Enhanced dataset management capabilities"]
+    },
+    {
+      "position": "PyTorch Vision - Open Source Contributor",
+      "url": "https://github.com/pytorch/vision",
+      "startDate": "2025",
+      "summary": "Contributing to computer vision transformations and model architectures",
+      "highlights": ["pytorch/vision#9114 - Improved image transformation utilities"]
+    }
+  ],
   "music": [
     {
       "startDate": "2023-08",
