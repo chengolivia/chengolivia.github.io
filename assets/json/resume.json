@@ -42,7 +42,7 @@
       ]
     },
     {
-      "startDate": "20222",
+      "startDate": "2022",
       "endDate": "2023",
       "location": "New York, NY",
       "name": "Meta Platforms, Inc.",
@@ -247,7 +247,7 @@
   ],
   "music": [
     {
-      "startDate": "2023",
+      "startDate": "2023-08",
       "position": "Mendelssohn Choir of Pittsburgh",
       "url": "https://www.themendelssohn.org/",
       "location": "Pittsburgh, PA",
@@ -259,12 +259,12 @@
         "Beethoven's Symphony No. 9 | April 26-28, 2024 | Cond. by Manfred Honeck",
         "Liszt's Dante Symphony | April 19-21, 2024 | Cond. by Manfred Honeck",
         "Highmark Holiday Pops | December 15-23, 2023",
-        "Brahms’ Requiem | December 1-3 | Cond. by Manfred Honeck"
+        "Brahms’ Requiem | December 1-3, 2023 | Cond. by Manfred Honeck"
       ]
     },
     {
       "startDate": "2023",
-      "endDate": "2023",
+      "endDate": "2023-06",
       "position": "Florilegium Chamber Choir",
       "url": "https://florilegiumchamberchoir.org/",
       "location": "New York, NY",
@@ -276,7 +276,7 @@
     },
     {
       "startDate": "2022",
-      "endDate": "2023",
+      "endDate": "2023-06",
       "position": "New York Choral Society",
       "url": "https://nychoral.org/",
       "location": "New York, NY",
