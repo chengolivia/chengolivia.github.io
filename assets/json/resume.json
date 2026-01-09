@@ -100,17 +100,17 @@
     {
       "name": "Technical Interests",
       "icon": "fas fa-laptop-code",
-      "keywords": ["machine learning", "representation learning", "deep learning", "computer vision", "multimodal AI", "operations research"]
+      "keywords": ["machine learning", "multimodal AI", "scalable ML", "information retrieval"]
     },
     {
       "name": "Applied Domains",
       "icon": "fas fa-chart-area",
-      "keywords": ["finance", "science", "operations", "automation", "robotics", "autonomous vehicles"]
+      "keywords": ["operations/devOps", "automation", "finance", "science"]
     },
     {
       "name": "Theory & Philosophy",
       "icon": "fas fa-book",
-      "keywords": ["learning theory and epistemology", "technology ethics"]
+      "keywords": ["learning theory and epistemology", "technology ethics", "causality"]
     }
   ],
 
@@ -255,7 +255,7 @@
       ]
     },
     {
-      "startDate": "2023",
+      "startDate": "2023-01",
       "endDate": "2023-06",
       "position": "Florilegium Chamber Choir",
       "url": "https://florilegiumchamberchoir.org/",
@@ -264,7 +264,7 @@
       "highlights": ["Jauchzet dem Herrn | March 5, 2023", "Ye Shall Have a Song | May 21, 2023"]
     },
     {
-      "startDate": "2022",
+      "startDate": "2022-08",
       "endDate": "2023-06",
       "position": "New York Choral Society",
       "url": "https://nychoral.org/",
@@ -275,6 +275,17 @@
         "Bernstein's Chichester Psalms | May 28, 2023 | Stern Auditorium/Perelman Stage, Carnegie Hall | Cond. by Michael Repper",
         "A Very Merry Brooklyn Holiday Concert | December 16, 2022 | St. Ann and the Holy Trinity Church, Brooklyn | Cond. by Philip Nuzzo",
         "Duke Ellington's Sacred Concerts | November 18-19, 2022 | Tishman Auditorium, The New School"
+      ]
+    },
+    {
+      "startDate": "2022-01",
+      "endDate": "2022-05",
+      "position": "Penn Collegium Musicum",
+      "url": "https://music.sas.upenn.edu/ensembles/penn-collegium-musicum",
+      "location": "Philadelphia, PA",
+      "summary": "Alto I in 12-person a cappella chamber choir at the University of Pennsylvania, specializing in music from the Medieval, Renaissance, and early Baroque period.",
+      "highlights": [
+        "Music for Spirit and Soul | April 11, 2022 | St. Mary's Church, Hamilton Village | Solo in 'Ave Mater Pia' by Antoine Boesset" 
       ]
     }
   ]
