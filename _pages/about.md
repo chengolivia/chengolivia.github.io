@@ -24,7 +24,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Master of Science in Machine Learning student at Carnegie Mellon University School of Computer Science, expected graduation in December 2026. I am interested in representation learning, deep learning, computer vision, and multimodal AI/ML. I am interested in applications of ML in science, finance, and automation.
+I am a Master of Science in Machine Learning student at Carnegie Mellon University School of Computer Science, expected graduation in December 2026. My interests lie in applications of ML that make information more accessible, operations run smoother, and, generally, people's work easier.
+
+I will be an intern at Datadog in summer 2026 at their New York City headquarters.
+
+In Fall 2025, I worked with CMU's AI for Social Good lab, led by [Dr. Fei Fang](https://feifang.info/), on [AI tools](peercopilot.com) for crisis peer support providers. This work is a collaboration between CMU Software & Societal Systems Department, CMU Human-Computer Interaction Institute, University of Pittsburgh School of Social Work, and Collaborative Support Programs of New Jersey. The project is supported by an NSF Civic Innovation Challenge grant.
 
 I joined Facebook/Meta after my undergrad at the University of Pennsylvania in 2022 as a full-time software engineer in the Reality Labs NYC division, working on brain-computer interfaces and on-device machine learning. I then relocated to Pittsburgh and worked as a software engineer at Daedalus Inc. from 2024 to summer 2025 on embedded software, machine learning, and app development for medical and safety devices.
 
