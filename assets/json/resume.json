@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Olivia Cheng",
-    "summary": "Machine Learning Research and Engineering"
+    "summary": "Machine Learning Engineering"
   },
   "education": [
     {
@@ -23,11 +23,20 @@
       "courses": [
         "Graduated with 4.0/4 GPA, summa cum laude",
         "Teaching Assistant for CIS 160: Mathematical Foundations of Computer Science, 2020-2021",
-        "Tutor for ECON 001: Microeconomics"
+        "Tutor for ECON 001: Microeconomics and Math 114: Multivariable and Vector Calculus",
+        "Co-president of Association for Women in Mathematics"
       ]
     }
   ],
   "work": [
+    {
+      "startDate": "2025-05",
+      "location": "New York, NY",
+      "position": "Software Engineer Intern",
+      "name": "Datadog",
+      "url": "http://datadoghq.com/",
+      "highlights": ["Applied AI Streaming Engineering Team"]
+    },
     {
       "startDate": "2024",
       "endDate": "2025",
@@ -100,7 +109,7 @@
     {
       "name": "Technical Interests",
       "icon": "fas fa-laptop-code",
-      "keywords": ["machine learning", "multimodal AI", "scalable ML", "information retrieval"]
+      "keywords": ["machine learning", "reliable ML", "information retrieval", "monitorability"]
     },
     {
       "name": "Applied Domains",
@@ -153,6 +162,7 @@
       "level": "",
       "keywords": [
         "PyTorch",
+        "OpenAI API",
         "OpenCV",
         "MMDetection",
         "YOLO",
@@ -176,7 +186,7 @@
         "Java",
         "embedded systems",
         "NVIDIA Jetson",
-        "mobile app development (React Native)",
+        "React/React Native",
         "performance optimization",
         "Git",
         "CI/CD",
@@ -205,7 +215,7 @@
       "name": "Mathematical Foundations",
       "icon": "fas fa-calculator",
       "level": "",
-      "keywords": ["linear algebra", "probability theory", "3D geometry", "graph theory"]
+      "keywords": ["statistics", "linear algebra", "probability theory", "3D geometry", "graph theory", "calculus", "logic"]
     },
     {
       "name": "Open Source",
@@ -240,6 +250,7 @@
   "music": [
     {
       "startDate": "2023-08",
+      "endDate": "2025-09",
       "position": "Mendelssohn Choir of Pittsburgh",
       "url": "https://www.themendelssohn.org/",
       "location": "Pittsburgh, PA",

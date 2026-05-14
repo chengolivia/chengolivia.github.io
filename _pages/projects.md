@@ -1,13 +1,15 @@
 ---
 layout: page
 title: Projects
-description: Research - Works in Progress
+description: This page is a work in progress.
 permalink: /projects/
 nav: true
 nav_order: 3
-display_categories: [Open-Source, Professional]
+# display_categories: [Digital Humanities, Open-Source AI]
 horizontal: false
 ---
+
+One of my side projects is to develop ML tools for digital humanities and philosophy. For a snapshot, check out my [academic philosophy topic clustering visualization](https://chengolivia.github.io/philosophy-impact/pca_visualization.html).
 
 <!-- pages/projects.md -->
 <div class="projects">
