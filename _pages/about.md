@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Master of Science in Machine Learning student at Carnegie Mellon University School of Computer Science, expected graduation in December 2026. My interests lie in applications of ML that make information more accessible, operations run smoother, and, generally, people's work easier.
+I am a Master of Science in Machine Learning student at Carnegie Mellon University School of Computer Science, expected graduation in December 2026. My core focus is on building practical, deployable ML systems that are efficient, reliable, and safe in production. Beyond infrastructure, I’m interested in applied representation learning and extracting structure from messy, high-dimensional data across diverse domains—ranging from software telemetry to bioinformatics to banking regulation.
 
-I am currently working as a Software Engineer Intern at Datadog in their New York HQ. I am working on the Applied AI Streaming Engineering team.
+In Summer 2026, I worked as a Software Engineer Intern at Datadog in their New York HQ. I led a pod on the Datadog Intelligence team in the Applied AI Incubation org, developing a MVP for an internet-scale cyberattack campaign detection application.
 
 In Fall 2025, I worked with CMU's AI for Social Good lab, led by [Dr. Fei Fang](https://feifang.info/), on [AI tools](https://hcii.cmu.edu/news/peercopilot) for crisis peer support providers. This work is a collaboration between CMU Software & Societal Systems Department, CMU Human-Computer Interaction Institute, University of Pittsburgh School of Social Work, and Collaborative Support Programs of New Jersey. The project is supported by an NSF Civic Innovation Challenge grant.
 
